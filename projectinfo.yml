@@ -1,0 +1,21 @@
+info:
+  project_name: "flightcalc"
+  project_start_date: 03/17/2019
+  name: "flightcalc"
+  authors: "KDPryor"
+  authors_email: ""
+  description: "A flight python calculation module."
+  license: 'GPL-3.0'
+  classifiers:
+    - 'Development Status :: 4 - Beta'
+    - 'Intended Audience :: Developers'
+    - 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)'
+    - 'Programming Language :: Python :: 3.7'
+  url: 'https://github.com/KDPryor/My-Feeble-Python-3-Stuff'
+
+
+version:
+  major: 0
+  minor: 0
+  revision: 0
+  release: 3
