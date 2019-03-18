@@ -3,6 +3,7 @@
 
 Basic script to tell you when to begin your descent from cruise.
 For flight simulation ONLY. Not for real life navigational usage.
+Original script by KDPryor and later massively improved by Wyatt Roersma.
 
 ## How to install
 
